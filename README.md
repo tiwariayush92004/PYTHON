@@ -1,2 +1,2 @@
 # PYTHON
-Some projects on basic python 
+Repo of complete basics of Python
